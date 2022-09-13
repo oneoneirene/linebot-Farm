@@ -8,3 +8,6 @@
 查詢 春園休閒農場
 查詢  丞翔園農莊民宿
 即可查詢該農場或民宿的照片、地址、介紹、官方網址
+
+掃描QRcode添加休閒農場機器人：
+![image](https://user-images.githubusercontent.com/101792723/189919619-35de0a5f-9fea-4075-ba14-2515bcb22f87.png)
